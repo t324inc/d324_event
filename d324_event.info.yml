@@ -1,0 +1,20 @@
+name: Event
+description: 'Provides Event content type and related configuration. A node to represent a single event, with a date/time, image, and description.'
+type: module
+core: 8.x
+dependencies:
+  - addtoany
+  - blazy
+  - datetime
+  - ds
+  - field
+  - media_library
+  - menu_ui
+  - node
+  - path
+  - simple_sitemap
+  - smart_trim
+  - text
+  - user
+  - views
+package: D324
